@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashiqullahmg
+- 👋 Hi, I’m Ashiq Khan
 - 👀 I’m interested in web application development and cross-platform mobile application development. 
 - 🌱 I’m currently learning flutter.
 - 💞️ I’m looking to collaborate on transfering a laravel website to flutter application.
